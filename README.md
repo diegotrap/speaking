@@ -1,2 +1,3 @@
-# speaking
-Speaking, whorkshops slides and materials
+# diegotrap speaking
+
+Slides, notes and materials from talks I've given.
